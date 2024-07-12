@@ -1,0 +1,13 @@
+D:\NLW Journey\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.deps.json
+D:\NLW Journey\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.dll
+D:\NLW Journey\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.pdb
+D:\NLW Journey\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\NLW Journey\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfoInputs.cache
+D:\NLW Journey\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfo.cs
+D:\NLW Journey\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.CoreCompileInputs.cache
+D:\NLW Journey\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.dll
+D:\NLW Journey\Journey\src\Journey.Exception\obj\Debug\net8.0\refint\Journey.Exception.dll
+D:\NLW Journey\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.pdb
+D:\NLW Journey\Journey\src\Journey.Exception\obj\Debug\net8.0\ref\Journey.Exception.dll
+D:\NLW Journey\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.GenerateResource.cache
+D:\NLW Journey\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.ResourceErrorMessages.resources
